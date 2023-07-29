@@ -6,10 +6,7 @@ This repository contains example code for programming the ESP32's dual-core capa
 
 - [Introduction](#introduction)
 - [Setup](#setup)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
+- [Code](#code)
 
 ## Introduction
 
@@ -23,9 +20,4 @@ To use the code in this repository, you'll need the following:
 - Arduino IDE or PlatformIO with ESP32 support installed
 - USB cable to connect the ESP32 board to your computer
 
-## Usage
-
-1. Clone the repository to your local machine using the following command:
-
-```bash
-git clone https://github.com/your-username/esp32-dual-core-programming.git
+##Code
